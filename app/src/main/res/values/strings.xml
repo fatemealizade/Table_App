@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TableApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_family">Enter Family</string>
+    <string name="hint_age">Enter Age</string>
+    <string name="hint_phone">Phone Num.</string>
+    <string name="save_btn">Save</string>
+</resources>
